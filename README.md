@@ -12,3 +12,6 @@ A simple JavaScript quiz application that displays questions, tracks score, and 
 - HTML
 - CSS
 - JavaScript
+
+- ## 🌐 Live Demo
+👉 https://major-kosdan.github.io/QUIZ-GAME/
